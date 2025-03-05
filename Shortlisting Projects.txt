@@ -1,0 +1,20 @@
+Shortlist Projects Based on Final Week Submission
+------------------------------------------------
+How well you made/imporved your auction app ?
+-Design & UI
+-Functionality
+	-Bug fixing
+	-new features
+-Creativity 
+
+Do all the imrpovisations - Test in local system
+Use new Repo - Push entire project - Maintain frontend & backend structure
+(please add .gitignore in both folders)
+
+Improvisations - Write it in detail on LMS submission time
+
+Project PPT(10MB) 
+-Use given template only
+-It's a refelction of your final submission. Include relavant screenshots in modelling & result section
+
+Mock Presentations will happen next week -> Selected students will proceed to Final Presentations in front of EY Panel
